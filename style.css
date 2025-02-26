@@ -242,7 +242,7 @@ footer {
 /* Responsive Design */
 @media screen and (max-width: 768px) {
     .top {
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
     }
     .backend, .frontend {
